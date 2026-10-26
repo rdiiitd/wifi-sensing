@@ -1,0 +1,8 @@
+# data and generated files stay local
+data/
+sharp_output/cache/
+sharp_output/figures/11_*
+docs/
+__pycache__/
+.pytest_cache/
+*.pyc
